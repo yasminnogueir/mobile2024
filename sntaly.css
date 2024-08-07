@@ -1,0 +1,6 @@
+:root{
+    --corde-de-fundo: #EBECEE;
+}
+body{
+    background-color: var(--corde-de-fundo);
+}
